@@ -1,0 +1,12 @@
+body {
+  background-color: lightblue;
+}
+
+.spoil-protect{
+  background-color: lightblue;
+  color: lightblue;
+}
+
+.spoil-protect:hover{
+  background-color: green;
+}
